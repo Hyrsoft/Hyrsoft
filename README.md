@@ -9,4 +9,4 @@ My passion lies in **Linux**, **embedded technologies**, and **open-source hardw
 ### 📊 My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Hyrsoft&show_icons=trueh)
 
-![](https://count.getloli.com/get/@haoruanwn)
+![](https://count.getloli.com/get/@Hyrsoft)
